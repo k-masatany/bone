@@ -1,0 +1,16 @@
+{
+    "name": "k-masatany/bone",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Test\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "k-masatany"
+        }
+    ],
+    "require": {}
+}
